@@ -151,7 +151,7 @@ nav a:hover::after {
     align-items: flex-start;
     background-color: black; /* Cor preta */
     color: white; /* Texto branco */
-    padding: 30px 50px; /* Mais espaço interno */
+    padding: 15px 25px; /* Mais espaço interno */
     border-radius: 8px;
     font-family: 'Agdasima', sans-serif;
     width: 100%; /* Ocupa toda a largura da página */
