@@ -255,6 +255,16 @@ main {
     text-align: center;
 }
 
+footer { /* Wrap your existing footer styles within a footer selector */
+    background-color: black; /* Cor preta */
+    color: white; /* Texto branco */
+    padding: 30px 50px;
+    border-radius: 8px;
+    font-family: 'Agdasima', sans-serif;
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: auto; /* Important: Pushes the footer to the bottom */
+}
 
 /* Responsividade */
 
@@ -469,6 +479,11 @@ label {
     width: 100%;
     transition: background-color 0.3s ease;
 }
+
+.btn-submit:hover {
+    background-color: #218838;
+}
+/*fim do agendamento*/
 
 .btn-submit:hover {
     background-color: #218838;
