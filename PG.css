@@ -93,6 +93,9 @@ nav a:hover::after {
     align-items: flex-start;
     justify-content: flex-start;
 }
+.text-center{
+    color:black;
+}
 
 .sidebar li {
     width: 100%;
