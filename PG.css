@@ -151,7 +151,7 @@ nav a:hover::after {
     align-items: flex-start;
     background-color: black; /* Cor preta */
     color: white; /* Texto branco */
-    padding: 15px 25px; /* Mais espaço interno */
+    padding: 15px 30px; /* Mais espaço interno */
     border-radius: 8px;
     font-family: 'Agdasima', sans-serif;
     width: 100%; /* Ocupa toda a largura da página */
@@ -255,16 +255,6 @@ main {
     text-align: center;
 }
 
-footer { /* Wrap your existing footer styles within a footer selector */
-    background-color: black; /* Cor preta */
-    color: white; /* Texto branco */
-    padding: 30px 50px;
-    border-radius: 8px;
-    font-family: 'Agdasima', sans-serif;
-    width: 100%;
-    box-sizing: border-box;
-    margin-top: auto; /* Important: Pushes the footer to the bottom */
-}
 
 /* Responsividade */
 
